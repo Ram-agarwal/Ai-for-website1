@@ -1,0 +1,214 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #007bff;
+  }
+  
+  .ai-for-work-banner {
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius:20px;
+    border-bottom-right-radius: 20px;
+    
+    
+  }
+  
+  .logo {
+    font-weight: bold;
+    font-size: 24px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    margin-right: 15px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.text {
+    text-align: center;
+}
+
+.creative {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 16px;
+    color: #888;
+}
+.container-first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  
+    
+    
+}
+
+.image-container {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius:30px;
+    border-bottom-right-radius: 30px;
+    
+  }
+  
+  .palette-icon {
+    font-size: 24px;
+    margin-right: 10px;
+    
+  }
+  .container-first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  
+    
+    
+}
+.container-secound{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.image-container1 {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius:30px;
+    border-bottom-right-radius: 30px;
+  }
+  .palette-icon1 {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  .container-three{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.image-container2 {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius:30px;
+    border-bottom-right-radius: 30px;
+  }
+  .palette-icon2 {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  .container-fourth{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.image-container3 {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius:30px;
+    border-bottom-right-radius: 30px;
+  }
+  .palette-icon3 {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  .container-five{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.image-container4 {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius:30px;
+    border-bottom-right-radius: 30px;
+  }
+  .palette-icon4 {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+  .container-six{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.image-container5 {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius:30px;
+    border-bottom-right-radius: 30px;
+  }
+  .palette-icon5 {
+    font-size: 24px;
+    margin-right: 10px;
+  }
+ footer{
+    height: 170px;
+    width: 100%;
+    background-color: white;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius:30px;
+    border-bottom-right-radius: 30px;
+ }
+ .description{
+    text-align: center;
+    padding: 20px;
+ }
